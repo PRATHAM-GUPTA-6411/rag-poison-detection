@@ -1,0 +1,11 @@
+method,gold_kept,ctx_poison_prag,ctx_poison_prag_noq,ctx_poison_inject,ctx_poison_prag_div,ctx_poison_inject_llm
+none,0.99,1.0,1.0,1.0,1.0,0.99
+keyword,0.99,1.0,1.0,1.0,1.0,0.99
+emb_anomaly,0.97,1.0,1.0,1.0,1.0,0.99
+ppl,0.97,0.99,1.0,0.51,1.0,0.99
+trustrag,0.83,0.0,0.35,0.0,0.29,0.93
+weighted,0.84,0.97,0.97,0.92,0.99,0.97
+rf,0.82,0.05,0.28,0.06,0.15,0.62
+xgb,0.84,0.07,0.32,0.07,0.19,0.64
+xgb_nos4,0.81,0.05,0.35,0.07,0.18,0.73
+xgb_lite,0.84,0.04,0.35,0.07,0.21,0.67

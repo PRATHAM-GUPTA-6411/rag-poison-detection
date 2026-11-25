@@ -1,0 +1,100 @@
+{"qid": "1163399", "question": "what day is groundhog's day?", "correct": "February 2", "incorrect": "March 15", "gold_docs": ["c_255324"]}
+{"qid": "192017", "question": "fruits are a good source of potassium?true or false", "correct": "true", "incorrect": "false", "gold_docs": ["c_222392"]}
+{"qid": "1164044", "question": "what county is cicero il", "correct": "Cook", "incorrect": "DuPage", "gold_docs": ["c_186502"]}
+{"qid": "708956", "question": "what is ahl?", "correct": "American Hockey League", "incorrect": "Advanced Hyperloop Line", "gold_docs": ["c_170136"]}
+{"qid": "276042", "question": "how many calories are in air popped popcorn", "correct": "30", "incorrect": "150", "gold_docs": ["c_77531"]}
+{"qid": "602483", "question": "what county is apopka florida", "correct": "Orange", "incorrect": "Miami-Dade", "gold_docs": ["c_252306"]}
+{"qid": "608977", "question": "what county is madison, nj", "correct": "Morris County", "incorrect": "Essex County", "gold_docs": ["c_149341"]}
+{"qid": "578308", "question": "what band released bleach", "correct": "Nirvana", "incorrect": "The Beatles", "gold_docs": ["c_260893"]}
+{"qid": "13876", "question": "age of sexual consent in nj", "correct": "16", "incorrect": "18", "gold_docs": ["c_234625"]}
+{"qid": "603030", "question": "what county is belmont ca", "correct": "San Mateo", "incorrect": "Alameda", "gold_docs": ["c_121334"]}
+{"qid": "400596", "question": "is a percussion an instrument of definite pitch", "correct": "no", "incorrect": "yes", "gold_docs": ["c_212321"]}
+{"qid": "495447", "question": "shanghai gmt time difference", "correct": "8 hours", "incorrect": "5 hours", "gold_docs": ["c_217140"]}
+{"qid": "518180", "question": "the percentage is with successful organ transplant", "correct": "90%", "incorrect": "73%", "gold_docs": ["c_206004"]}
+{"qid": "608955", "question": "what county is macungie, pa in", "correct": "Lehigh", "incorrect": "Montgomery", "gold_docs": ["c_41322"]}
+{"qid": "1163605", "question": "what county is snowmass village, co", "correct": "Pitkin", "incorrect": "Boulder", "gold_docs": ["c_232484"]}
+{"qid": "422717", "question": "is rohypnol a depressant", "correct": "yes", "incorrect": "no", "gold_docs": ["c_133406"]}
+{"qid": "663986", "question": "what glandular type is the mammary gland?", "correct": "exocrine", "incorrect": "endocrine", "gold_docs": ["c_193150"]}
+{"qid": "1164096", "question": "what county is blackshear ga in", "correct": "Pierce", "incorrect": "Bibb", "gold_docs": ["c_181298"]}
+{"qid": "1164420", "question": "what class is tarantula in", "correct": "Arachnida", "incorrect": "Mammalia", "gold_docs": ["c_146500"]}
+{"qid": "75056", "question": "can u put asters in pots", "correct": "yes", "incorrect": "no", "gold_docs": ["c_252461"]}
+{"qid": "77753", "question": "can you get driving record online", "correct": "yes", "incorrect": "no", "gold_docs": ["c_175582"]}
+{"qid": "664611", "question": "what group sang stairway to heaven", "correct": "Led Zeppelin", "incorrect": "The Beatles", "gold_docs": ["c_212115"]}
+{"qid": "1164150", "question": "what county is abbottstown, pa", "correct": "Adams", "incorrect": "Lancaster", "gold_docs": ["c_175740"]}
+{"qid": "464601", "question": "nissan rogue how many generations", "correct": "2", "incorrect": "4", "gold_docs": ["c_149934"]}
+{"qid": "145522", "question": "did the unabomber have college education", "correct": "yes", "incorrect": "no", "gold_docs": ["c_230326", "c_230328"]}
+{"qid": "1164098", "question": "what county is blackduck mn in", "correct": "Beltrami", "incorrect": "Hennepin", "gold_docs": ["c_181178"]}
+{"qid": "429677", "question": "is tom selleck divorcing", "correct": "no", "incorrect": "yes", "gold_docs": ["c_199298"]}
+{"qid": "1164072", "question": "what county is camden ar in]", "correct": "Ouachita", "incorrect": "Benton", "gold_docs": ["c_183714"]}
+{"qid": "613542", "question": "what county is tenino washington in", "correct": "Thurston", "incorrect": "King", "gold_docs": ["c_240339"]}
+{"qid": "1164223", "question": "what constitutional amendment defines women's rights", "correct": "Nineteenth Amendment", "incorrect": "Twenty-second Amendment", "gold_docs": ["c_167641"]}
+{"qid": "403613", "question": "is autoimmune hepatitis a bile acid synthesis disorder", "correct": "no", "incorrect": "yes", "gold_docs": ["c_60"]}
+{"qid": "603231", "question": "what county is blandon pa in", "correct": "Berks", "incorrect": "Lancaster", "gold_docs": ["c_198436"]}
+{"qid": "578643", "question": "what beans does illy use", "correct": "Arabica beans", "incorrect": "Robusta beans", "gold_docs": ["c_168127"]}
+{"qid": "604961", "question": "what county is daytona beach fl in?", "correct": "Volusia", "incorrect": "Orange", "gold_docs": ["c_223905"]}
+{"qid": "614007", "question": "what county is valdosta city schools ga in?", "correct": "Lowndes", "incorrect": "Fulton", "gold_docs": ["c_139604"]}
+{"qid": "577564", "question": "what army base is near norfolk", "correct": "Fort Eustis", "incorrect": "Camp Pendleton", "gold_docs": ["c_210024"]}
+{"qid": "412652", "question": "is hydrogen abundant on earth", "correct": "no", "incorrect": "yes", "gold_docs": ["c_120718"]}
+{"qid": "614188", "question": "what county is wadsworth oh", "correct": "Medina", "incorrect": "Summit", "gold_docs": ["c_224134"]}
+{"qid": "1163719", "question": "what county is north ridgeville, ohio located in", "correct": "Lorain", "incorrect": "Cuyahoga", "gold_docs": ["c_219746"]}
+{"qid": "604839", "question": "what county is cullowhee nc", "correct": "Jackson", "incorrect": "Wake", "gold_docs": ["c_214677"]}
+{"qid": "414754", "question": "is it tru that glycogen is the storage form of glucose in plants?", "correct": "no", "incorrect": "yes", "gold_docs": ["c_7993"]}
+{"qid": "300369", "question": "how many world series do the pirates have", "correct": "5", "incorrect": "7", "gold_docs": ["c_173034"]}
+{"qid": "605134", "question": "what county is diboll tx in", "correct": "Angelina", "incorrect": "Harris", "gold_docs": ["c_221999"]}
+{"qid": "577825", "question": "what astronomers use to view objects in space", "correct": "telescopes", "incorrect": "microscopes", "gold_docs": ["c_204787"]}
+{"qid": "1163769", "question": "what county is midvale ut in", "correct": "Salt Lake County", "incorrect": "Utah County", "gold_docs": ["c_214519"]}
+{"qid": "1163770", "question": "what county is miami gardens in", "correct": "Miami-Dade", "incorrect": "Broward", "gold_docs": ["c_214402"]}
+{"qid": "1163698", "question": "what county is pascoag ri in", "correct": "Providence", "incorrect": "Kent", "gold_docs": ["c_222156"]}
+{"qid": "1163949", "question": "what county is ferndale, mi?", "correct": "Oakland", "incorrect": "Wayne", "gold_docs": ["c_195435"]}
+{"qid": "410490", "question": "is fosamax a bisphosphonate", "correct": "yes", "incorrect": "no", "gold_docs": ["c_128022"]}
+{"qid": "1163825", "question": "what county is laconia new hampshire", "correct": "Belknap", "incorrect": "Merrimack", "gold_docs": ["c_207882"]}
+{"qid": "431733", "question": "is yahoo a search engine?", "correct": "yes", "incorrect": "no", "gold_docs": ["c_129264"]}
+{"qid": "603045", "question": "what county is beltsville md", "correct": "Prince George's County", "incorrect": "Montgomery County", "gold_docs": ["c_153390"]}
+{"qid": "1163600", "question": "what county is spring green wisconsin", "correct": "Sauk County", "incorrect": "Dane County", "gold_docs": ["c_233090"]}
+{"qid": "1163993", "question": "what county is delafield wi", "correct": "Waukesha", "incorrect": "Dane", "gold_docs": ["c_190842"]}
+{"qid": "611862", "question": "what county is revere, ma in", "correct": "Suffolk", "incorrect": "Essex", "gold_docs": ["c_260090"]}
+{"qid": "500489", "question": "song prince wrote for batman movie", "correct": "Batdance", "incorrect": "Purple Rain", "gold_docs": ["c_258795"]}
+{"qid": "333411", "question": "how old do you have to be to buy a car", "correct": "18", "incorrect": "13", "gold_docs": ["c_233813"]}
+{"qid": "1164733", "question": "what causes leprosy?", "correct": "Mycobacterium leprae", "incorrect": "Bacillus anthracis", "gold_docs": ["c_70066"]}
+{"qid": "230427", "question": "how far is a meter in feet", "correct": "3.28084 feet", "incorrect": "5.28084 feet", "gold_docs": ["c_216103"]}
+{"qid": "28407", "question": "at what age does medicare become effective", "correct": "65", "incorrect": "50", "gold_docs": ["c_257632"]}
+{"qid": "1163803", "question": "what county is lisbon oh located in", "correct": "Columbiana", "incorrect": "Mahoning", "gold_docs": ["c_210415"]}
+{"qid": "289486", "question": "how many minutes in professional soccer?", "correct": "90", "incorrect": "120", "gold_docs": ["c_173602"]}
+{"qid": "10997", "question": "actress who played tarzan's jane", "correct": "Maureen O'Sullivan", "incorrect": "Natalie Wood", "gold_docs": ["c_140642"]}
+{"qid": "1163402", "question": "what day is clover day", "correct": "March 17", "incorrect": "July 29", "gold_docs": ["c_254970"]}
+{"qid": "551079", "question": "what age do you take from your ira ?", "correct": "59 1/2", "incorrect": "45", "gold_docs": ["c_254524"]}
+{"qid": "415330", "question": "is kamala harris black", "correct": "yes", "incorrect": "no", "gold_docs": ["c_248995"]}
+{"qid": "612163", "question": "what county is roxbury nj", "correct": "Morris", "incorrect": "Essex", "gold_docs": ["c_205927"]}
+{"qid": "599225", "question": "what comes out of an eye when you cry", "correct": "tears", "incorrect": "rainbows", "gold_docs": ["c_83560"]}
+{"qid": "1183713", "question": "epic of gilgamesh how many tablets", "correct": "12", "incorrect": "8", "gold_docs": ["c_190475"]}
+{"qid": "1164102", "question": "what county is berne ny in", "correct": "Albany", "incorrect": "Saratoga", "gold_docs": ["c_180672"]}
+{"qid": "1164039", "question": "what county is claysville pa in", "correct": "Washington", "incorrect": "Allegheny", "gold_docs": ["c_186870"]}
+{"qid": "408930", "question": "is dvt a hemolytic condition", "correct": "no", "incorrect": "yes", "gold_docs": ["c_234747"]}
+{"qid": "1163536", "question": "what county is van horn texas", "correct": "Culberson", "incorrect": "Jefferson", "gold_docs": ["c_240123"]}
+{"qid": "598745", "question": "what color will a gram-negative cell stain?", "correct": "pink", "incorrect": "purple", "gold_docs": ["c_243451"]}
+{"qid": "167649", "question": "does ireland have a monarchy", "correct": "no", "incorrect": "yes", "gold_docs": ["c_237439"]}
+{"qid": "406634", "question": "is cockroaches carnivours", "correct": "no", "incorrect": "yes", "gold_docs": ["c_156116"]}
+{"qid": "416509", "question": "is liquid asphalt hazmat?", "correct": "yes", "incorrect": "no", "gold_docs": ["c_121428"]}
+{"qid": "1163611", "question": "what county is shepherdsville kentucky in", "correct": "Bullitt", "incorrect": "Jefferson", "gold_docs": ["c_231751"]}
+{"qid": "65656", "question": "can chlamydia be passed by kissing", "correct": "no", "incorrect": "yes", "gold_docs": ["c_216410"]}
+{"qid": "437838", "question": "last time orioles won world series", "correct": "1983", "incorrect": "1995", "gold_docs": ["c_168758"]}
+{"qid": "664584", "question": "what group of people did hernando cortes conquer", "correct": "Aztecs", "incorrect": "Incas", "gold_docs": ["c_233622"]}
+{"qid": "1163425", "question": "what dates did jackson run for president", "correct": "1824, 1828, 1832", "incorrect": "1816, 1820, 1824", "gold_docs": ["c_252683"]}
+{"qid": "156641", "question": "do hertz measure pitch", "correct": "yes", "incorrect": "no", "gold_docs": ["c_234342"]}
+{"qid": "1164172", "question": "what county dobson nc in", "correct": "Surry", "incorrect": "Wake", "gold_docs": ["c_173320"]}
+{"qid": "592724", "question": "what causes the plates to be pulled apart", "correct": "convection currents", "incorrect": "magnetic repulsion", "gold_docs": ["c_187120"]}
+{"qid": "412992", "question": "is indus air iata approved", "correct": "no", "incorrect": "yes", "gold_docs": ["c_141479"]}
+{"qid": "406880", "question": "is color blindness more common in males or females?", "correct": "males", "incorrect": "females", "gold_docs": ["c_242593"]}
+{"qid": "540774", "question": "was texas confederate or union", "correct": "Confederate", "incorrect": "Union", "gold_docs": ["c_190066"]}
+{"qid": "578174", "question": "what bacteria causes diarrhea from contaminated water", "correct": "E. coli", "incorrect": "Lactobacillus acidophilus", "gold_docs": ["c_172729"]}
+{"qid": "420791", "question": "is pertussis a communicable disease", "correct": "yes", "incorrect": "no", "gold_docs": ["c_130463"]}
+{"qid": "417354", "question": "is marijuana less harmful than tobacco", "correct": "yes", "incorrect": "no", "gold_docs": ["c_197118"]}
+{"qid": "1164402", "question": "canary wharf is in which london borough", "correct": "Tower Hamlets", "incorrect": "Greenwich", "gold_docs": ["c_148557"]}
+{"qid": "1163411", "question": "what day did martin luther king jr say his speech", "correct": "August 28, 1963", "incorrect": "July 4, 1965", "gold_docs": ["c_253886"]}
+{"qid": "1164451", "question": "what city is lackawanna county, pa in", "correct": "Scranton", "incorrect": "Harrisburg", "gold_docs": ["c_142973"]}
+{"qid": "1164558", "question": "what channel does grown ish come on", "correct": "Freeform", "incorrect": "HGTV", "gold_docs": ["c_133360"]}
+{"qid": "413229", "question": "is ira same as 403b", "correct": "no", "incorrect": "yes", "gold_docs": ["c_168748"]}
+{"qid": "416394", "question": "is light fixtures a fixed asset", "correct": "yes", "incorrect": "no", "gold_docs": ["c_169383"]}
+{"qid": "1163705", "question": "what county is opelika al in?", "correct": "Lee", "incorrect": "Jefferson", "gold_docs": ["c_221311"]}
+{"qid": "283876", "question": "how many frames per second is broadcast standard", "correct": "29.97", "incorrect": "60", "gold_docs": ["c_193412"]}
+{"qid": "423744", "question": "is signature a safeway brand", "correct": "yes", "incorrect": "no", "gold_docs": ["c_256678"]}

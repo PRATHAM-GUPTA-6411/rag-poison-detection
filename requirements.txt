@@ -1,0 +1,15 @@
+sentence-transformers>=3.0
+transformers>=4.40
+sentencepiece
+protobuf
+faiss-cpu
+xgboost
+scikit-learn
+pandas
+numpy
+requests
+tqdm
+tabulate
+streamlit
+matplotlib
+rouge-score

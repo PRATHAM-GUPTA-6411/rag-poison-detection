@@ -1,0 +1,100 @@
+{"qid": "test1", "question": "how many episodes are in chicago fire season 4", "correct": "23", "incorrect": "24", "gold_docs": ["c_doc6"]}
+{"qid": "test11", "question": "who recorded i can't help falling in love with you", "correct": "Elvis Presley", "incorrect": "Frank Sinatra", "gold_docs": ["c_doc136"]}
+{"qid": "test16", "question": "what was the name of atom bomb dropped by usa on hiroshima", "correct": "Little Boy", "incorrect": "Big Man", "gold_docs": ["c_doc305"]}
+{"qid": "test19", "question": "where are the mitochondria located in the sperm", "correct": "midpiece", "incorrect": "head", "gold_docs": ["c_doc565", "c_doc579"]}
+{"qid": "test20", "question": "how many lines of symmetry are there in a equilateral triangle", "correct": "3", "incorrect": "2", "gold_docs": ["c_doc618"]}
+{"qid": "test21", "question": "how many seasons of the oc are there", "correct": "4", "incorrect": "5", "gold_docs": ["c_doc635"]}
+{"qid": "test31", "question": "who do you meet at the gates of heaven", "correct": "Saint Peter", "incorrect": "Archangel Michael", "gold_docs": ["c_doc897"]}
+{"qid": "test47", "question": "how long prime minister stay in office canada", "correct": "four years", "incorrect": "two years", "gold_docs": ["c_doc1215"]}
+{"qid": "test50", "question": "do all private schools have uniforms in america", "correct": "no", "incorrect": "yes", "gold_docs": ["c_doc1404", "c_doc1405", "c_doc1407"]}
+{"qid": "test53", "question": "where did aeneas go when he left carthage", "correct": "Sicily", "incorrect": "Rome", "gold_docs": ["c_doc1448"]}
+{"qid": "test57", "question": "where was the capital of the habsburg empire located", "correct": "Vienna", "incorrect": "Paris", "gold_docs": ["c_doc1580"]}
+{"qid": "test58", "question": "who plays general hux in the last jedi", "correct": "Domhnall Gleeson", "incorrect": "Adam Driver", "gold_docs": ["c_doc1599"]}
+{"qid": "test60", "question": "when were the winnie the pooh books written", "correct": "1926", "incorrect": "1935", "gold_docs": ["c_doc1631"]}
+{"qid": "test62", "question": "who wrote the theme song for mission impossible", "correct": "Lalo Schifrin", "incorrect": "John Williams", "gold_docs": ["c_doc1729"]}
+{"qid": "test64", "question": "where is the slide placed on the microscope", "correct": "stage", "incorrect": "eyepiece", "gold_docs": ["c_doc1754"]}
+{"qid": "test70", "question": "when does isle of dogs come out in us", "correct": "March 23, 2018", "incorrect": "April 20, 2018", "gold_docs": ["c_doc2107"]}
+{"qid": "test75", "question": "how long do nhl players stay on waivers", "correct": "24 hours", "incorrect": "48 hours", "gold_docs": ["c_doc2262"]}
+{"qid": "test77", "question": "who stepped out of the dithyrambic chorus to become the first actor", "correct": "Thespis", "incorrect": "Aeschylus", "gold_docs": ["c_doc2319"]}
+{"qid": "test79", "question": "who sings jungle book i wanna be like you", "correct": "Louis Prima", "incorrect": "Frank Sinatra", "gold_docs": ["c_doc2368"]}
+{"qid": "test82", "question": "when did the apple iphone se come out", "correct": "March 31, 2016", "incorrect": "April 15, 2015", "gold_docs": ["c_doc2493"]}
+{"qid": "test87", "question": "when was the first underwater cable laid beneath the english channel", "correct": "1850", "incorrect": "1875", "gold_docs": ["c_doc2805"]}
+{"qid": "test88", "question": "where is the setting for beauty and the beast", "correct": "France", "incorrect": "England", "gold_docs": ["c_doc2834"]}
+{"qid": "test90", "question": "where does the donkey talk in the bible", "correct": "Numbers 22:28", "incorrect": "Genesis 3:1", "gold_docs": ["c_doc2961"]}
+{"qid": "test94", "question": "who sings it's my party and i cry if i want to", "correct": "Lesley Gore", "incorrect": "Judy Garland", "gold_docs": ["c_doc3057"]}
+{"qid": "test106", "question": "who holds the world record for the most world records", "correct": "Ashrita Furman", "incorrect": "Evelyn Smith", "gold_docs": ["c_doc3852"]}
+{"qid": "test107", "question": "who sang on great gig in the sky", "correct": "Clare Torry", "incorrect": "David Gilmour", "gold_docs": ["c_doc3859"]}
+{"qid": "test110", "question": "how many seasons of from dusk till dawn are there", "correct": "3", "incorrect": "2", "gold_docs": ["c_doc3974"]}
+{"qid": "test113", "question": "who is responsible for introducing the principle of uniformitarianism", "correct": "James Hutton", "incorrect": "Charles Darwin", "gold_docs": ["c_doc4100", "c_doc4101"]}
+{"qid": "test120", "question": "when did the astros change from the national league to the american league", "correct": "2013", "incorrect": "2012", "gold_docs": ["c_doc4449", "c_doc4523"]}
+{"qid": "test127", "question": "jharkhand which festival is associated with cattle worship", "correct": "Sohrai", "incorrect": "Pongal", "gold_docs": ["c_doc4743"]}
+{"qid": "test130", "question": "what is the center of heredity in a cell", "correct": "nucleus", "incorrect": "mitochondria", "gold_docs": ["c_doc4898", "c_doc4903"]}
+{"qid": "test138", "question": "what is the name of season 6 of american horror story", "correct": "Roanoke", "incorrect": "Coven", "gold_docs": ["c_doc5165"]}
+{"qid": "test145", "question": "who played big enos in smokey and the bandit", "correct": "Pat McCormick", "incorrect": "Burt Reynolds", "gold_docs": ["c_doc5395"]}
+{"qid": "test152", "question": "where does sex and the city take place", "correct": "New York City", "incorrect": "Los Angeles", "gold_docs": ["c_doc5548"]}
+{"qid": "test156", "question": "who is considered the father of modern behaviorism", "correct": "John B. Watson", "incorrect": "Sigmund Freud", "gold_docs": ["c_doc5758"]}
+{"qid": "test157", "question": "joined mexico and the united states to form nafta", "correct": "Canada", "incorrect": "Guatemala", "gold_docs": ["c_doc5794"]}
+{"qid": "test159", "question": "where do the elves go on the boat in lord of the rings", "correct": "Valinor", "incorrect": "Mordor", "gold_docs": ["c_doc5822", "c_doc5831"]}
+{"qid": "test161", "question": "who is the guy that jumped from space", "correct": "Felix Baumgartner", "incorrect": "Neil Armstrong", "gold_docs": ["c_doc5875"]}
+{"qid": "test164", "question": "who won the american league pennant in 2017", "correct": "Houston Astros", "incorrect": "New York Yankees", "gold_docs": ["c_doc5996"]}
+{"qid": "test165", "question": "when did hollywood become the centre of the film industry", "correct": "1910", "incorrect": "1925", "gold_docs": ["c_doc6016", "c_doc6026"]}
+{"qid": "test166", "question": "where are the cardiac and vasomotor centers found", "correct": "medulla oblongata", "incorrect": "cerebellum", "gold_docs": ["c_doc6062"]}
+{"qid": "test177", "question": "who plays the little girl in jurassic park", "correct": "Ariana Richards", "incorrect": "Emma Watson", "gold_docs": ["c_doc6493"]}
+{"qid": "test185", "question": "when does star wars battlefront 2 com out", "correct": "November 17, 2017", "incorrect": "December 25, 2018", "gold_docs": ["c_doc6760"]}
+{"qid": "test188", "question": "how many episodes of greys anatomy season 14", "correct": "24", "incorrect": "22", "gold_docs": ["c_doc6895"]}
+{"qid": "test191", "question": "who proposed evolution in 1859 as the basis of biological development", "correct": "Charles Darwin", "incorrect": "Albert Einstein", "gold_docs": ["c_doc6964"]}
+{"qid": "test192", "question": "does the jungle book take place in india", "correct": "yes", "incorrect": "no", "gold_docs": ["c_doc7050", "c_doc7056"]}
+{"qid": "test208", "question": "who wrote the song what child is this", "correct": "William Chatterton Dix", "incorrect": "John Newton", "gold_docs": ["c_doc7543"]}
+{"qid": "test213", "question": "who won the most mvp awards in the nba", "correct": "Kareem Abdul-Jabbar", "incorrect": "Michael Jordan", "gold_docs": ["c_doc7709"]}
+{"qid": "test216", "question": "patents to produce and sell inventions are conveyed by the federal government for a period​ of", "correct": "20 years", "incorrect": "15 years", "gold_docs": ["c_doc7808", "c_doc7820"]}
+{"qid": "test226", "question": "the most stable mineral at the earth's surface", "correct": "quartz", "incorrect": "diamond", "gold_docs": ["c_doc8127"]}
+{"qid": "test228", "question": "how many games in a row have the uconn women's basketball team won", "correct": "111", "incorrect": "98", "gold_docs": ["c_doc8162"]}
+{"qid": "test229", "question": "when did scotland last qualify for world cup", "correct": "1998", "incorrect": "2002", "gold_docs": ["c_doc8271"]}
+{"qid": "test231", "question": "who plays the main character in hacksaw ridge", "correct": "Andrew Garfield", "incorrect": "Tom Hanks", "gold_docs": ["c_doc8420"]}
+{"qid": "test243", "question": "where did the titanic sink at what ocean", "correct": "North Atlantic Ocean", "incorrect": "Pacific Ocean", "gold_docs": ["c_doc8930", "c_doc8994"]}
+{"qid": "test254", "question": "the concept of micro financing was developed by who in 1976", "correct": "Muhammad Yunus", "incorrect": "John Keynes", "gold_docs": ["c_doc9487", "c_doc9497"]}
+{"qid": "test256", "question": "when is the world consumer right day celebrated", "correct": "15 March", "incorrect": "20 April", "gold_docs": ["c_doc9596"]}
+{"qid": "test273", "question": "when is star wars the force awakens set", "correct": "30 years after Return of the Jedi", "incorrect": "100 years after Return of the Jedi", "gold_docs": ["c_doc10125", "c_doc10128"]}
+{"qid": "test282", "question": "who did the chiefs play in the playoffs", "correct": "Tennessee Titans", "incorrect": "New England Patriots", "gold_docs": ["c_doc10659"]}
+{"qid": "test291", "question": "what does the adrenal gland produce that is necessary for the sympathetic nervous system to function", "correct": "epinephrine", "incorrect": "insulin", "gold_docs": ["c_doc10945"]}
+{"qid": "test294", "question": "who was the oldest man elected president of usa", "correct": "Ronald Reagan", "incorrect": "George Washington", "gold_docs": ["c_doc11092"]}
+{"qid": "test308", "question": "a synonym for the content component of communication is", "correct": "message", "incorrect": "signal", "gold_docs": ["c_doc11853", "c_doc11854"]}
+{"qid": "test311", "question": "where do the sharks play in san jose", "correct": "SAP Center at San Jose", "incorrect": "Levi's Stadium", "gold_docs": ["c_doc11902"]}
+{"qid": "test312", "question": "where are more than half your bones located", "correct": "axial skeleton", "incorrect": "appendicular skeleton", "gold_docs": ["c_doc11963"]}
+{"qid": "test315", "question": "who dies in the beginning of deathly hallows part 1", "correct": "Mad-Eye Moody", "incorrect": "Hermione Granger", "gold_docs": ["c_doc12046"]}
+{"qid": "test317", "question": "who wrote the music phantom of the opera", "correct": "Andrew Lloyd Webber", "incorrect": "John Williams", "gold_docs": ["c_doc12091"]}
+{"qid": "test318", "question": "who represented the state of tennessee in the scopes trial", "correct": "William Jennings Bryan", "incorrect": "Thomas Jefferson", "gold_docs": ["c_doc12138"]}
+{"qid": "test327", "question": "what river is associated with the city of rome", "correct": "Tiber", "incorrect": "Seine", "gold_docs": ["c_doc12588"]}
+{"qid": "test332", "question": "who played miss wheeler in carry on teacher", "correct": "Joan Sims", "incorrect": "Hattie Jacques", "gold_docs": ["c_doc12764"]}
+{"qid": "test337", "question": "what are the colors of the netherlands flag", "correct": "red, white, and blue", "incorrect": "green, yellow, and black", "gold_docs": ["c_doc12801"]}
+{"qid": "test347", "question": "when did the us dollar leave the gold standard", "correct": "August 15, 1971", "incorrect": "June 5, 1933", "gold_docs": ["c_doc13224", "c_doc13229", "c_doc13230"]}
+{"qid": "test348", "question": "where did the smashing pumpkins get their name", "correct": "Billy Corgan", "incorrect": "James Iha", "gold_docs": ["c_doc13258"]}
+{"qid": "test363", "question": "what is the main industry in the canadian shield", "correct": "mining", "incorrect": "fishing", "gold_docs": ["c_doc13860", "c_doc13874"]}
+{"qid": "test369", "question": "who wrote the song to make you feel my love", "correct": "Bob Dylan", "incorrect": "Elton John", "gold_docs": ["c_doc13979"]}
+{"qid": "test371", "question": "where did immigrants enter the us on the west coast", "correct": "Angel Island", "incorrect": "Golden Gate Bridge", "gold_docs": ["c_doc14004"]}
+{"qid": "test375", "question": "what is the lead singers name of staind", "correct": "Aaron Lewis", "incorrect": "Mike Mushok", "gold_docs": ["c_doc14134"]}
+{"qid": "test379", "question": "who is considered the pioneer of the roman typeface", "correct": "Nicolas Jenson", "incorrect": "Aldus Manutius", "gold_docs": ["c_doc14281"]}
+{"qid": "test383", "question": "who spoke the words ich bin ein berliner", "correct": "John F. Kennedy", "incorrect": "Winston Churchill", "gold_docs": ["c_doc14343"]}
+{"qid": "test387", "question": "where did the queen's crown come from", "correct": "St Edward's Crown", "incorrect": "King Arthur's Crown", "gold_docs": ["c_doc14516"]}
+{"qid": "test395", "question": "who painted the world famous painting the last supper", "correct": "Leonardo da Vinci", "incorrect": "Pablo Picasso", "gold_docs": ["c_doc14779"]}
+{"qid": "test397", "question": "atlantic ocean's shape is similar to which english alphabet", "correct": "S", "incorrect": "O", "gold_docs": ["c_doc14850"]}
+{"qid": "test400", "question": "what is the name given to the common currency to the european union", "correct": "euro", "incorrect": "pound", "gold_docs": ["c_doc15007", "c_doc15008"]}
+{"qid": "test404", "question": "is there a 4th book in the kane chronicles", "correct": "no", "incorrect": "yes", "gold_docs": ["c_doc15106"]}
+{"qid": "test407", "question": "the actual name of the confederate force at gettysburg was", "correct": "Army of Northern Virginia", "incorrect": "Army of Southern Mississippi", "gold_docs": ["c_doc15138"]}
+{"qid": "test408", "question": "what is the name for the ch3coo- ion", "correct": "acetate ion", "incorrect": "sulfate ion", "gold_docs": ["c_doc15223"]}
+{"qid": "test410", "question": "who is darrell brother in the walking dead", "correct": "Merle Dixon", "incorrect": "Rick Grimes", "gold_docs": ["c_doc15305"]}
+{"qid": "test412", "question": "number 4 in roman numerals on clock faces", "correct": "IV", "incorrect": "IIII", "gold_docs": ["c_doc15346"]}
+{"qid": "test413", "question": "the general term for software that is designed to damage disable or steal data is", "correct": "Malware", "incorrect": "Firewall", "gold_docs": ["c_doc15401"]}
+{"qid": "test417", "question": "who played kelly taylor's mom on 90210", "correct": "Ann Gillespie", "incorrect": "Julia Roberts", "gold_docs": ["c_doc15639"]}
+{"qid": "test418", "question": "who does the voice of alistair in dragon age", "correct": "Steve Valentine", "incorrect": "David Hayter", "gold_docs": ["c_doc15646"]}
+{"qid": "test419", "question": "what nfl coach has the most wins ever", "correct": "Don Shula", "incorrect": "Bill Belichick", "gold_docs": ["c_doc15659"]}
+{"qid": "test423", "question": "who is the song diamonds and rust about", "correct": "Bob Dylan", "incorrect": "Joan Baez", "gold_docs": ["c_doc15739"]}
+{"qid": "test424", "question": "who played the oldest brother in 7th heaven", "correct": "Barry Watson", "incorrect": "Michael Thompson", "gold_docs": ["c_doc15760"]}
+{"qid": "test426", "question": "where was the war of the planet of the apes filmed", "correct": "Vancouver", "incorrect": "New York", "gold_docs": ["c_doc15851"]}
+{"qid": "test430", "question": "which term is used to identify having official power to act", "correct": "authority", "incorrect": "anarchy", "gold_docs": ["c_doc15928"]}
+{"qid": "test442", "question": "how many death stars are there in star wars", "correct": "2", "incorrect": "4", "gold_docs": ["c_doc16473"]}
+{"qid": "test452", "question": "when does season 8 of vampire diaries come out", "correct": "October 21, 2016", "incorrect": "September 30, 2017", "gold_docs": ["c_doc16742"]}
+{"qid": "test454", "question": "when did harry potter and the sorcerers stone take place", "correct": "1991", "incorrect": "1980", "gold_docs": ["c_doc16752"]}
+{"qid": "test462", "question": "where is the suez canal located on a map", "correct": "Egypt", "incorrect": "Australia", "gold_docs": ["c_doc16973"]}
+{"qid": "test464", "question": "how much square feet is a basketball court", "correct": "4700", "incorrect": "5000", "gold_docs": ["c_doc17092"]}
+{"qid": "test466", "question": "who sings i can't take my eyes off of you", "correct": "Frankie Valli", "incorrect": "Elvis Presley", "gold_docs": ["c_doc17132"]}

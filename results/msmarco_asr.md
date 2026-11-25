@@ -1,0 +1,24 @@
+# End-to-end results: msmarco  (LLM=llama3:8b, k_ctx=5, questions=100)
+
+| attack   |   n_poison | defence     |   ctx_poison_rate |   avg_ctx_docs |    ASR |   ACC |
+|:---------|-----------:|:------------|------------------:|---------------:|-------:|------:|
+| none     |          0 | none        |              0    |           5    | nan    |  0.83 |
+| none     |          0 | keyword     |              0    |           5    | nan    |  0.83 |
+| none     |          0 | emb_anomaly |              0    |           5    | nan    |  0.81 |
+| none     |          0 | weighted    |              0    |           5    | nan    |  0.73 |
+| none     |          0 | xgb         |              0    |           5    | nan    |  0.78 |
+| prag     |          5 | none        |              1    |           5    |   0.92 |  0.07 |
+| prag     |          5 | keyword     |              1    |           5    |   0.92 |  0.07 |
+| prag     |          5 | emb_anomaly |              1    |           5    |   0.92 |  0.07 |
+| prag     |          5 | weighted    |              1    |           5    |   0.69 |  0.36 |
+| prag     |          5 | xgb         |              0.06 |           4.29 |   0.08 |  0.7  |
+| prag_noq |          5 | none        |              1    |           5    |   0.91 |  0.14 |
+| prag_noq |          5 | keyword     |              1    |           5    |   0.91 |  0.14 |
+| prag_noq |          5 | emb_anomaly |              1    |           5    |   0.91 |  0.14 |
+| prag_noq |          5 | weighted    |              1    |           5    |   0.87 |  0.22 |
+| prag_noq |          5 | xgb         |              0.29 |           4.46 |   0.17 |  0.61 |
+| inject   |          5 | none        |              1    |           5    |   0.98 |  0.03 |
+| inject   |          5 | keyword     |              1    |           4.9  |   0.69 |  0.3  |
+| inject   |          5 | emb_anomaly |              1    |           5    |   0.98 |  0.03 |
+| inject   |          5 | weighted    |              0.83 |           4.87 |   0.53 |  0.44 |
+| inject   |          5 | xgb         |              0.1  |           4.23 |   0.12 |  0.76 |
