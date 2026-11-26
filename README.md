@@ -1,5 +1,6 @@
 # RAG Poisoning Detection: multi-signal black-box detector
 
+
 ## Setup (Windows, once)
 ```bat
 python -m venv .venv && .venv\Scripts\activate
